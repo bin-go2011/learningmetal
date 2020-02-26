@@ -1,2 +1,2 @@
-# Learning Metal for iOS from the Ground Up - [raywenderlich.com](https://www.raywenderlich.com/)
-## [Part 1: Introduction](https://www.raywenderlich.com/)
+## Learning Metal for iOS from the Ground Up
+### [Part 1: Introduction](https://www.youtube.com/watch?v=TEqbZ7Ai7AA)
